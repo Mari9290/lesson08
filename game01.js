@@ -33,7 +33,7 @@ const play = () => {
             else if (userAnswer == null) {
                 break;
             }                                
-            }
+        }
 };
 
 play();
